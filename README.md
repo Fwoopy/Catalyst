@@ -6,13 +6,13 @@
   - [Short Blurb](#short-blurb)
   - [Mission](#mission)
   - [What Sets us Apart](#what-sets-us-apart)
-- [How you can Help](#how-you-can-help)
 - [Roadmap](#roadmap)
 - [Known Bugs](#known-bugs)
 - [Feature List](#feature-list)
 - [Basic Features](#basic-features)
 - [Additional Features](#additional-features)
 - [Potential Optimizations](#potential-optimizations)
+- [How you can Help](#how-you-can-help)
 - [Contact Me](#contact-me)
 - [Special Thanks](#special-thanks)
 
@@ -36,6 +36,27 @@ We are aware that there are many current and planned competitors to us.  However
 * No fees
 * And much more!
 
+# Feature List
+
+* Easy to find artists and their listings
+* Artist and user profiles will contain social media information, including streaming indication
+* Searchable artist profiles with simple formatting (colors, markdown)
+* Examples!  Lots of examples for you to gaze upon before you commission!
+* Reviews - commissioners can leave an anonymous rating/comment
+  * Additionally, you can view recent commissioners and contact them to ask about their experience
+* Characters
+  * Easily create a profile for your character full of art, refs, bio, etc and share it with an artist!
+* Commission management - easily keep track of commissions and their status, possibly with trello integration
+* Intuitive, simple design which is fully mobile-friendly!
+* Strong security - two factor authentication and constant verifications site-wide
+
+# Known Bugs
+# Basic Feature List
+# Additional Features
+
+See our [Trello](https://trello.com/b/X37KEv4A/catalyst) for a general idea!
+
+
 # How you can Help
 
 Follow us!  I ask for help often in the Discord and Telegram!
@@ -55,27 +76,9 @@ Follow us!  I ask for help often in the Discord and Telegram!
 - Tumblr: https://catalystapp-co.tumblr.com/
 - Facebook: https://facebook.com/catalystapp.co
 - GitHub: https://github.com/catalyst-app/Catalyst
-- Email: catalyst@catalystapp.co
 
-# Feature List
-
-* Easy to find artists and their listings
-* Artist and user profiles will contain social media information, including streaming indication
-* Searchable artist profiles with simple formatting (colors, markdown)
-* Examples!  Lots of examples for you to gaze upon before you commission!
-* Reviews - commissioners can leave an anonymous rating/comment
-  * Additionally, you can view recent commissioners and contact them to ask about their experience
-* Characters
-  * Easily create a profile for your character full of art, refs, bio, etc and share it with an artist!
-* Commission management - easily keep track of commissions and their status, possibly with trello integration
-* Intuitive, simple design which is fully mobile-friendly!
-* Strong security - two factor authentication and constant verifications site-wide
-
-# Known Bugs
-# Basic Feature List
-# Additional Features
-
-See our [Trello](https://trello.com/b/X37KEv4A/catalyst) for a general idea!  However, we now use [Conveyor](https://conveyor.com) for real management so the Trello may be inconsistent, inaccurate, or otherwise outdated.
+# Contact Me
+- Please contact me at catalyst@catalystapp.co, or on any of the social sites listed above!
 
 # Developer Notes
 
